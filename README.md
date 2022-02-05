@@ -1,2 +1,2 @@
 # Games
-Games I have built
+These are games that I have built
