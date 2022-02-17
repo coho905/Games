@@ -11,3 +11,5 @@ AP World:  Navigate through a course and collect coins while avoiding bad guys (
 Maze:  Navigate through 4 levels of a maze to win (C++)
 
 Guessing Game:  Guess a number while recieving higher or lower hints (Rust)
+
+Elevens: A solitaire game with a GUI
